@@ -22,8 +22,9 @@ host = 127.0.0.1
 ### 3. download and execute dropbox_uploader.sh
 ```
 $ git clone https://github.com/kmusiclife/dropbox_backup.sh.git
-$ chmod 755 dropbox_backup.sh.git
-$ ./dropbox_backup.sh.git
+$ cd dropbox_backup.sh
+$ chmod 755 dropbox_backup.sh
+$ ./dropbox_backup.sh
 ```
 ## Acknowledgments
 
