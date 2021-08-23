@@ -4,7 +4,7 @@
 #          Description
 # ------------------------------------------------------------------
 #
-# ~/.dbaccess file example
+# ~/.dbaccess.cnf file example
 #
 # [client]
 # user = root
