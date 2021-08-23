@@ -27,7 +27,5 @@ $ chmod 755 dropbox_backup.sh
 $ ./dropbox_backup.sh
 ```
 ## Acknowledgments
-
-Inspiration, code snippets, etc.
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader)
 * [mysql client option](https://dev.mysql.com/doc/refman/8.0/en/mysql-command-options.html)
